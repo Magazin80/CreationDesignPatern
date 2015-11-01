@@ -1,0 +1,14 @@
+#pragma once
+#include "Shape.h"
+
+class Square :public Shape
+
+{
+public:
+	virtual void draw() {
+		cout << "Square class" << endl;
+	}
+	Square() {};
+	~Square() {};
+};
+
