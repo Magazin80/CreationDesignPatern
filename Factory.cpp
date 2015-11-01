@@ -11,6 +11,9 @@
 
 AbstractFactory *getFactory(string iFactory)
 {
+	{
+		//random
+	}
 	if (iFactory == "Shape")
 	{
 		return new ShapeFactory();
@@ -32,7 +35,6 @@ Singleton *Singleton::mObject = NULL;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout << "FACTORY PATERN" << endl;
 	Shape *wShape;
 	ShapeFactory wShapeFactory;
 
