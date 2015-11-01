@@ -38,6 +38,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	Shape *wShape;
 	ShapeFactory wShapeFactory;
 //add new comments
+//new1 l kjlk jlkj lk
 
 	wShape = wShapeFactory.getShape("Rectangle");
 	wShape->draw();
