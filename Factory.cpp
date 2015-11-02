@@ -42,7 +42,6 @@ int _tmain(int argc, _TCHAR* argv[])
 //Hello
 //Andrew 3
 //changes in batch for fix22
-//i'm leaving cae
 int www= 5;
 
 	wShape = wShapeFactory.getShape("Rectangle");
