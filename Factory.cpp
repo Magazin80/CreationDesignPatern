@@ -40,7 +40,7 @@ int _tmain(int argc, _TCHAR* argv[])
 //add new comments
 //new1 l kjlk jlkj lk
 //Hello
-//Andrew
+//Andrew 2
 int www= 5;
 
 	wShape = wShapeFactory.getShape("Rectangle");
