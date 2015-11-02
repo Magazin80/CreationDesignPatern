@@ -41,8 +41,7 @@ int _tmain(int argc, _TCHAR* argv[])
 //new1 l kjlk jlkj lk
 //Hello
 //Andrew 3
-//changes in batch for hotfix
-
+//changes in batch for master
 int www= 5;
 
 	wShape = wShapeFactory.getShape("Rectangle");
